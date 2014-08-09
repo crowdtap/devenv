@@ -36,6 +36,11 @@ Filesystem
 
 The environment matches what is in production, so the apps reside in `/srv/<app>`, which is also where you will find `logs`. If you are looking for logs from a specific service, they are located under `/var/log`.
 
+Inspiration
+-----------
+
+This would not exist without the repo from RelateIQ: [docker_public](https://github.com/relateiq/docker_public) and their [presentation from DockerCon 2014](http://blog.docker.com/2014/07/dockercon-video-docker-at-relateiq/).
+
 Contributing
 ------------
 
