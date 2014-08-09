@@ -12,10 +12,10 @@ Installation
 
 All you need to do is
 ```
-curl -s http://bit.ly/1yfpgAL | bash
+curl -s http://bit.ly/1mvr3Mj | bash
 ```
 
-Feel free to have a look at the source, `bin/bootstrap.sh` to see what it will do.
+Feel free to have a look at the source, `bin/install.sh` to see what it will do.
 
 
 Getting Started
