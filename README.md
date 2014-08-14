@@ -23,6 +23,7 @@ Getting Started
 ```
 Usage: devenv <ssh|start|stop|update>
 
+  rebuild: Wipe out the VM and rebuild from scratch
   ssh:     SSH into the environment
   start:   Bring up the environment
   stop:    Bring down the environment
