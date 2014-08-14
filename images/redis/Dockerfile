@@ -10,9 +10,6 @@ RUN rm -fr redis-$REDIS_VERSION*
 
 ADD redis.conf redis.conf
 
-VOLUME [ "/logs" ]
-VOLUME [ "/data" ]
-
 EXPOSE 6739
 CMD ["redis.conf"]
 ENTRYPOINT ["redis-server"]
