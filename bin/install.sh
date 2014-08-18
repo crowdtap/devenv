@@ -36,4 +36,4 @@ fi
 
 echo "Installing devenv CLI..."
 git clone git@github.com:crowdtap/devenv.git $DEST
-sudo ln -sf $DEST/.devenv/bin/devenv.sh /usr/local/devenv
+sudo ln -sf $DEST/.devenv/bin/devenv.sh /usr/local/bin/devenv
